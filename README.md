@@ -1,4 +1,5 @@
 # LusSTR GUI
+![image](https://github.com/ShaheerSyed/LusSTR_GUI/assets/93398374/3a93b60a-cdaa-4906-8292-017ac00421c9)
 
 This Streamlit application provides a graphical user interface (GUI) for the LusSTR tool, which is used to convert Next Generation Sequencing (NGS) data of forensic STR loci to different sequence representations and allele designations for downstream analyses.
 
