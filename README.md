@@ -16,6 +16,6 @@ streamlit run lusstr_gui.py
 
 ## Important Note
 
-The **working directory** for LusSTR is the directory where the `lusstr_gui.py` file is located. That means whichever folder or directory you place the `lusstr_gui.py` file in will become the working directory for LusSTR. All input files and output files need to be specified in that directory.
+The **working directory** for LusSTR is the directory where the `lusstr_gui.py` file is located. That means if you decide to place the `lusstr_gui.py` file in another location, that location will become the working directory for LusSTR. All input files and output files need to be specified in that directory. If you do decide to place it in a different folder, make sure to also transfer all other files from this repository to that folder: `.streamlit` and `logo.png`. Otherwise, the fancy fonts and themes of the GUI will be missing, but it will still be functional. 
 
 
