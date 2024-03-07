@@ -13,3 +13,9 @@ Once you have installed LusSTR, you can run the GUI by executing the following c
 ```
 streamlit run lusstr_gui.py
 ```
+
+## Important Note
+
+The **working directory** for LusSTR is the directory where the `lusstr_gui.py` file is located. That means whichever folder or directory you place the `lusstr_gui.py` file in will become the working directory for LusSTR. All input files and output files need to be specified in that directory.
+
+
