@@ -7,6 +7,12 @@ This Streamlit application provides a graphical user interface (GUI) for the Lus
 
 Before running the GUI, you need to install the LusSTR package. You can find the installation instructions at [LusSTR GitHub page](https://github.com/bioforensics/lusSTR). Make sure to activate an environment that has LusSTR installed.
 
+Then in the same environment, run the following to install the GUI dependencies:
+
+```
+pip install -r requirements.txt
+```
+
 ## Running the GUI
 
 Once you have installed LusSTR, you can run the GUI by executing the following command in your command terminal:
